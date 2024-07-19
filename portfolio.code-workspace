@@ -7,5 +7,9 @@
 			"name": "portfolio",
 			"path": "portfolio"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kards-master",
+		"liveServer.settings.port": 5501
+	}
 }
